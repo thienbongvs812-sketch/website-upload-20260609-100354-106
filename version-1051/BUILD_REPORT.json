@@ -1,0 +1,20 @@
+{
+  "parsed_movies": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "html_pages_total": 2017,
+  "m3u8_sources_used": 20,
+  "missing_baidu_script_pages": [],
+  "category_distribution": {
+    "global-section": 200,
+    "asia-section": 200,
+    "romance-comedy": 200,
+    "action-adventure": 200,
+    "suspense-fantasy": 200,
+    "new-arrivals": 200,
+    "classic-library": 200,
+    "high-score": 200,
+    "drama-series": 200,
+    "hot-selection": 200
+  }
+}

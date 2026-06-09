@@ -1,0 +1,9 @@
+{
+  "site_name": "手机影视网",
+  "movie_count": 2000,
+  "detail_pages": 2000,
+  "category_pages": 12,
+  "hls_sources_bound": 20,
+  "baidu_analytics_inserted": true,
+  "uses_top_level_image_paths_1_to_150": true
+}
